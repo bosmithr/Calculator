@@ -10,9 +10,9 @@ char readchar(FILE *myfile) {
 	return c;
 }
 
-void writechar(FILE *newfile, char c) {
-	fputs(&c, newfile);
-}
+//void writechar(FILE *newfile, char c) {
+//	fputs(&c, newfile);
+//}
 
 /*-------------------------------------------------------------------------
 	evaluate the next token, nt, to generate the appropriate code to output
