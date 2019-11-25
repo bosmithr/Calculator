@@ -1,5 +1,5 @@
 /*
-    infix2postfix.h
+    infixtopostfix.h
     Tingting Xun
     24 November 2019
 */
