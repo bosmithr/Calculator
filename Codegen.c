@@ -77,9 +77,5 @@ void Codegen() {
 	return;
 }
 
-int main(int argc, char **argv){
-	Codegen();
-	return 0;
-}
 
 
